@@ -22,9 +22,8 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde una perspectiva integral y actualizada, esta unidad ofrece una aproximación al conocimiento de las sustancias psicoactivas, sus clasificaciones, efectos y riesgos asociados, especialmente en el contexto laboral. Se profundiza en los factores biológicos, psicológicos y sociales que explican el fenómeno de la farmacodependencia, y se brindan herramientas para su prevención e intervención efectiva. Este enfoque permite a los estudiantes convertirse en agentes de cambio, capaces de promover ambientes de trabajo saludables, seguros y comprometidos con el bienestar de los colaboradores.
-
-              p #[b ¡Prepárese para comprender los riesgos, intervenir con conocimiento y generar impacto positivo en su entorno laboral!]
+              p.descripcion.mb-4 Esta unidad brinda una comprensión profunda sobre los tipos de sustancias que afectan la salud individual, familiar y social, así como las estrategias de prevención en el contexto laboral. Esta unidad promueve una visión integral que articula aspectos médicos, legales y psicosociales, permitiendo a los participantes identificar riesgos, actuar preventivamente y apoyar procesos de recuperación en sus entornos. El enfoque pedagógico impulsa la formación de profesionales comprometidos con el bienestar y la seguridad en espacios de trabajo saludables y libres de adicciones.
+              p #[b ¡Prepárese para liderar entornos laborales responsables y protectores del bienestar colectivo!]
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
