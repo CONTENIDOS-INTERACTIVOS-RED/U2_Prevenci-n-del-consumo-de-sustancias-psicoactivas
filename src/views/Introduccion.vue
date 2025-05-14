@@ -27,7 +27,7 @@
               img.mx-auto.mb-4(src='@/assets/curso/unidad/img-3.svg', style='width: 80px')
               p.text-bold.mb-4.text-center Segundo módulo
               p.px-1.text-small.mb-0.text-center Se dedica a examinar el marco legal que regula las políticas de prevención del consumo de estas sustancias en el ámbito laboral, con énfasis en las normativas y regulaciones que las organizaciones deben seguir para garantizar un ambiente laboral seguro y conforme a la Ley.
-          .col-10.col-md-8.col-lg-6.col-xl-4.mx-auto.mb-4.mb-xl-0(data-aos='zoom-in')
+          .col-10.col-md-8.col-lg-6.col-xl-4.mx-auto.mb-xl-0(data-aos='zoom-in')
             .custom-image-card.d-flex.flex-column.p-4.py-md-5
               img.mx-auto.mb-4(src='@/assets/curso/unidad/img-4.svg', style='width: 80px')
               p.text-bold.mb-4.text-center Tercer módulo

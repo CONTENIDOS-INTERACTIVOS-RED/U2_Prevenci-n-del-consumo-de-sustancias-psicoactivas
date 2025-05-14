@@ -72,7 +72,7 @@
           .row.p-4.px-md-5.py-lg-5.justify-content-between
             .col-md-12.col-lg-7.mb-4.mb-md-0.d-flex.flex-column.justify-content-center
               p.text-bold Cuarto tema
-              p El impacto del consumo de sustancias psicoactivas en el individuo, es multifacético, abarcando desde el deterioro de la salud física y mental, hasta la reducción de oportunidades de desarrollo personal y profesional. La lucha contra la adicción es una batalla ardua que requiere comprensión, apoyo y tratamiento adecuado, resaltando la importancia de abordar este pr oblema, de manera integral.
+              p El impacto del consumo de sustancias psicoactivas en el individuo, es multifacético, abarcando desde el deterioro de la salud física y mental, hasta la reducción de oportunidades de desarrollo personal y profesional. La lucha contra la adicción es una batalla ardua que requiere comprensión, apoyo y tratamiento adecuado, resaltando la importancia de abordar este problema, de manera integral.
             .d-none.d-lg-block.col-md-6.col-lg-5(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/unidad/img-12.png', alt='Texto que describa la imagen')
