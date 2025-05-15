@@ -136,7 +136,7 @@
           p.mb-4 En este sentido, las empresas deben actuar con criterios objetivos y justos, garantizando que cualquier medida disciplinaria cumpla con los principios de proporcionalidad y debido proceso.
           p.mb-4 Las sanciones pueden aplicarse en casos como:
 
-          .row.mb-4
+          .row
             .col-10.col-md-6.col-lg-4.mb-4.mx-auto(data-aos="fade-right")
               div.custom-image-card.rounded-8px
                 img.mb-4(src='@/assets/curso/unidad/img-50.png', alt='Texto que describa la imagen')
@@ -149,7 +149,7 @@
                 div.mb-4
                   p.text-bold.text-center Segundo tema
                   p.text-small.px-4.text-center.pb-2 Casos en los que el consumo de sustancias represente un riesgo inminente para la vida del trabajador o de sus compañeros (por ejemplo, en actividades que requieren alta concentración o manejo de maquinaria).
-            .col-10.col-md-6.col-lg-4.mb-4.mx-auto(data-aos="fade-left")
+            .col-10.col-md-6.col-lg-4.mx-auto(data-aos="fade-left")
               div.custom-image-card.rounded-8px
                 img.mb-4(src='@/assets/curso/unidad/img-52.png', alt='Texto que describa la imagen')
                 div.mb-4
